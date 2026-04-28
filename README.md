@@ -1,6 +1,10 @@
 # 👾 PacMan Game using Data Structures (C++ & SFML)
 
 <p align="center">
+  <img src="pacman.png" alt="Pacman Game Banner" width="700"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Language-C++-blue?logo=c%2B%2B" />
   <img src="https://img.shields.io/badge/Graphics-SFML-green" />
   <img src="https://img.shields.io/badge/Concept-Data Structures-orange" />
