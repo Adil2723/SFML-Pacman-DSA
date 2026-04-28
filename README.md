@@ -57,15 +57,3 @@ It demonstrates how fundamental concepts like **queues, graphs, and arrays** can
 - 🧠 Data Structures & Algorithms  
 
 ---
-
-## ▶️ How to Run  
-
-### 💻 Visual Studio / VS Code  
-
-1. Install **SFML** and configure it  
-2. Open project in **VS Code / Visual Studio**  
-3. Compile and run  
-
----
-
-### ⚙️ CMake (Optional)  
