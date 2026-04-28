@@ -1,7 +1,7 @@
 # 👾 PacMan Game using Data Structures (C++ & SFML)
 
 <p align="center">
-  <img src="pacman.png" alt="Pacman Game Banner" width="700"/>
+  <img src="pacman.png" alt="Pacman Game Banner" width="550"/>
 </p>
 
 <p align="center">
